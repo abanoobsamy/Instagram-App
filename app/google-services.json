@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519332771185",
+    "firebase_url": "https://inst-5079c-default-rtdb.firebaseio.com",
+    "project_id": "inst-5079c",
+    "storage_bucket": "inst-5079c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519332771185:android:52bfe605b48d289208b2d0",
+        "android_client_info": {
+          "package_name": "com.home.intagramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519332771185-pc48jgqk63lclshjbn1d5to27cisuda5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhj-rMk0aJ2ucUuC_iLyg4-nTyQnHNJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519332771185-pc48jgqk63lclshjbn1d5to27cisuda5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
